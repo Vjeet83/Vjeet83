@@ -69,7 +69,8 @@ I am passionate about building intelligent, scalable AI systems that solve real-
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/vishvajeet-singh-shekhawat
-- Email: Vjeetshekhawat@gmail.com
+
+🌐 [LinkedIn](https://www.linkedin.com/in/vishvajeet-singh-shekhawat) 
+📫 [Email](mailto:Vjeetshekhawat@gmail.com)
 
 ⭐ Open to AI/ML collaborations, research, and innovative product development.
